@@ -12,7 +12,7 @@ library(nnet) # for multinomila regressi0n
 library(gt)
 library(kableExtra)
 library(fixest)
-setwd("C:/Users/32468/OneDrive - ucp.pt/Semester 2/T3/Applied Economics/Final Project")
+setwd("C:/data")
 Affinity_City_Daily <- read_csv("data research paper/EconomicTracker-main/data/Affinity - City - Daily.csv")
 Affinity_County_Daily <- read_csv("data research paper/EconomicTracker-main/data/Affinity - County - Daily.csv")
 Affinity_National_Daily <- read_csv("data research paper/EconomicTracker-main/data/Affinity - National - Daily.csv")
